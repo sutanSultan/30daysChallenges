@@ -1,0 +1,43 @@
+task2
+📁 Part A — Theory 
+
+1. Nine Pillars Understanding
+
+Q: AI Development Agents (jaise Gemini CLI) ko repetitive setup tasks ke liye use karna system architect ki growth ke liye behtar kyun hota hai?
+Ans: AI agents boring, repeat hone wale setup tasks khud kar lete hain. Is se waqt bachta hai aur hum important cheezon par focus kar sakte hain jaise architecture soch, planning aur system design. Choti moti files banane aur setup karne mein phasne ki bajaye banda jaldi grow karta hai.
+
+Q: Nine Pillars developer ko M-Shaped Developer banne mein kaise help karte hain?
+Ans: Har pillar alag skill strong karta hai, jaise tools chalana, AI agents use karna, specs likhna, domain knowledge lana, automation lagana. Jab saari skills combine ho jati hain to developer multi-talented ban jata hai. Sirf coding nahi, balkay design, thinking, AI usage sab aa jata hai. Yahi M-Shaped developer ka level hota hai.
+
+2. Vibe Coding vs Specification-Driven Development
+
+Q: Vibe Coding aik haftay baad problem kyun create karta hai?
+Ans: Kyun ke pehle koi proper plan nahi hota. Code dheere dheere messy, confuse aur hard to manage ho jata hai. Jaise bina map ke shehar mein ghoomna, pehle to fun lagta hai, baad mein sirf stress.
+
+Q: Specification-Driven Development un problems ko kaise rokta hai?
+Ans: SDD mein pehle saaf saaf likh liya jata hai ke system kya karega. Jab coding shuru hoti hai to confusion nahi hota. Rework kam, bugs kam, aur team ko exact pata hota hai ke kya banana hai. Simple aur clean.
+
+
+3. Architecture Thinking
+
+Q: Architecture-first thinking developer ka role kaise change karta hai?
+Ans: Developer ek coder se system designer ban jata hai. Pehle design sochta hai, structure set karta hai, phir AI aur code us design ko follow karte hain. Work smart hota hai, force laga kar nahi.
+
+Q: Developers ko raw code ki bajaye layers aur systems mein sochna kyun zaroori hai?
+Ans: Raw code soch se project messy aur slow ho jata hai. Layers (jaise UI, logic, data) use karne se har cheez clear, manageable aur reusable ho jati hai. Bugs fix karna bhi easy hota hai. System thinking se big picture dikhai deti hai.
+
+📁 Part C — Multiple Choice Questions (Roman Urdu + Sirf Correct Options)
+
+1. B
+
+
+2. B
+
+
+3. B
+
+
+4. B
+
+
+5. C
