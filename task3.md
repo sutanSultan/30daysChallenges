@@ -1,5 +1,5 @@
 
-PART A (Expanded, Clear, Human-Readable… and yes, slightly annoyed)
+PART A 
 1. What new improvements were made in Gemini 3.0?
 
 Gemini 3.0 isn’t just another “slightly better model.” It’s a big jump because:
